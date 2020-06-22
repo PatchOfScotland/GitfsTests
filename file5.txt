@@ -1,0 +1,2 @@
+This is a file created within the 'current' directory within the mounted directory.
+
